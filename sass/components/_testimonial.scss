@@ -1,0 +1,16 @@
+.testimonial__container{
+    margin-bottom: 63px;
+
+}
+.testimonial__header{
+    text-align: center;
+}
+.testimonial__list{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.testimonial__item:not(:last-child){
+    margin-right: 90px;
+}
